@@ -1,8 +1,8 @@
 [package]
 name = "rusticepub"
 version = "0.1.0"
-description = "A Tauri App"
-authors = ["you"]
+description = "A Epub reader / writer based in Rust originaly designed for LeoTheMushroom"
+authors = ["Dr. Nova Shadowtail"]
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
