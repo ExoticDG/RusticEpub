@@ -20,3 +20,9 @@ jobs:
       run: cargo build --verbose
     - name: Run tests
       run: cargo test --verbose
+    - name: Trunk
+      run: rustup target add wasm32-unknown-unknown
+    - name: Trunk1
+      run: cargo install --locked trunk
+    - name: Trunk2
+      run: trunk serve
