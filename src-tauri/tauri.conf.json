@@ -2,7 +2,7 @@
   "$schema": "https://schema.tauri.app/config/2",
   "productName": "rusticepub",
   "version": "0.1.0",
-  "identifier": "com.drnovashadowtail.rusticepub.app",
+  "identifier": "com.drnovashadowtail.rusticepub-reader",
   "build": {
     "beforeDevCommand": "trunk serve",
     "devUrl": "http://localhost:1420",
